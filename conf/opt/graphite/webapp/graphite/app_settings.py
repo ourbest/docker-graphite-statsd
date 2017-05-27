@@ -83,7 +83,7 @@ INSTALLED_APPS = (
   'django.contrib.sessions',
   'django.contrib.admin',
   'django.contrib.contenttypes',
-  'django.contrib.staticfiles', 
+  'django.contrib.staticfiles',
   'tagging',
 )
 
@@ -93,4 +93,4 @@ GRAPHITE_WEB_APP_SETTINGS_LOADED = True
 
 STATIC_URL = '/content/'
 
-STATIC_ROOT='/opt/graphite/webapp/content/' 
+STATIC_ROOT='/opt/graphite/webapp/content/'
